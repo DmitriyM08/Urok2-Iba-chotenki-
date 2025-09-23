@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "name": "post3",
+        "description": "post3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWAmRyGprViDX-AmbD4pQLlfOyJK0NhyMHw&s",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "name": "post2",
+        "description": "post2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWAmRyGprViDX-AmbD4pQLlfOyJK0NhyMHw&s",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "name": "post1",
+        "description": "desc1.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWAmRyGprViDX-AmbD4pQLlfOyJK0NhyMHw&s",
+        "likes": 0
+    }
+]
